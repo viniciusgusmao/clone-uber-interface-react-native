@@ -4,7 +4,7 @@
 
 ## Motivation
 
-This implementation was initially created by the excellent developer called **Diego Fernandes**, from the company **Rocketseat**.
+This implementation was initially created by the excellent developer called **Diego Fernandes**, from the company **Rocketseat**. (https://www.youtube.com/watch?v=bg-U0xZwcRk)
 
 My goal in replicating this implementation again was to reinforce my learning in React Native, in addition to getting to know the Google APIs better.
 
